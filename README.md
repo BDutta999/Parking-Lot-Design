@@ -1,13 +1,10 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██████╗ ██╗  ██╗██╗      ██████╗ ████████╗
-██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██║     ██╔═══██╗╚══██╔══╝
-██████╔╝███████║██████╔╝█████╔╝ ██║     ██║   ██║   ██║   
-██╔═══╝ ██╔══██║██╔══██╗██╔═██╗ ██║     ██║   ██║   ██║   
-██║     ██║  ██║██║  ██║██║  ██╗███████╗╚██████╔╝   ██║   
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝    ╚═╝   
-```
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 120" width="860" height="120">
+  <rect width="860" height="120" fill="#0d1117" rx="10"/>
+  <text x="50%" y="72" font-family="'Courier New', Courier, monospace" font-size="62" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="8">PARKLOT</text>
+  <text x="50%" y="105" font-family="'Courier New', Courier, monospace" font-size="13" fill="#58a6ff" text-anchor="middle" letter-spacing="6">MANAGEMENT SYSTEM</text>
+</svg>
 
 # 🅿️ Parking Lot Management System
 
