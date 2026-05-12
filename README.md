@@ -153,9 +153,9 @@ Fees are computed by `FeeCalculator` based on spot type and duration:
 
 | Spot Type | Rate | Minimum |
 |:--|:--|:--|
-| 🏍️ Bike | ₹10 / hr | 1 hour |
-| 🚗 Car | ₹20 / hr | 1 hour |
-| 🚛 Truck | ₹50 / hr | 1 hour |
+| 🏍️ Bike | ₹20 / hr | 1 hour |
+| 🚗 Car | ₹40 / hr | 1 hour |
+| 🚛 Truck | ₹80 / hr | 1 hour |
 
 > Billing is always rounded **up** to the nearest hour. A vehicle parked for 1h 5m is billed for 2 hours.
 
